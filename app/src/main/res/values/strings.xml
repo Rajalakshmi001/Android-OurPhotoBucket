@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Weather pics</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_weather_heading">Default weather heading</string>
+    <string name="default_weather_title">Weather title!</string>
+    <string name="default_image_url">https://www.weatherimageurl.com</string>
+    <string name="dialog_add_title">Add a Weatherpic</string>
+    <string name="dialog_edit_title">Edit a Weatherpic</string>
+    <string name="delete">Delete</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_with_google">Sign in with Google</string>
+    <string name="invalid_email">This email address is invalid</string>
+    <string name="invalid_password">Password is too short</string>
+    <string name="incorrect_password">Password is incorrect</string>
+    <string name="field_required">This field is required</string>
+    <string name="login_error">Login Error!</string>
+    <string name="no_passwords">You have no passwords</string>
+    <string name="action_add">Add</string>
+    <string name="action_logout">Logout</string>
+    <string name="deleted">Deleted</string>
+    <string name="undo">UNDO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="showPassword">Show password</string>
+    <string name="save">Save</string>
+    <string name="edit_password_title">Edit Password</string>
+    <string name="service">Service</string>
+    <string name="add_password_title">Add Password</string>
+    <string name="add">Add</string>
+    <string name="login_with_rosefire">Login with Rosefire</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="browse">Browse</string>
+
+    <string name="facebook_app_id">630834250593769</string>
+    <string name="fb_login_protocol_scheme">fb630834250593769</string>
+    <string name="show_all">SHOW ALL</string>
+
+</resources>
